@@ -1,0 +1,20 @@
+Goal: Create an web application that gathers 'date' information from a few sources and combines the info into a easily readable and actionable format for customers
+
+Data Sources:
+- Yelp API (restaurants & activities)
+- SeatGeek API
+- EventBrite API
+- TicketMaster API
+
+Skills Needed:
+
+- Data Organization
+- Parsing data from API to easily readable format
+- Web Dev (Backend)
+- Web Dev (Frontend)
+- Web Hosting?
+- License?
+
+Later Plans:
+
+- Mobile App
